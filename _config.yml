@@ -3,23 +3,23 @@
 title: Dinde Noire
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Tel que prédit, elle est revenue!
-hero-image: '/images/header.jpg'
+hero-image: '/images/header-portail.jpg'
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://chiwawawtf.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 blog-theme: light # You can use a `dark` or `light` theme.
 
 #-------------------------------
 # Authors Settings
 author:
-  name:     Jeremy Maguire
-  bio:      Hi, my name is Jeremy Maguire. I like being at the center of events, being free, and enjoying every moment.
-  location: San Diego
-  avatar:   /images/500.jpg
-  twitter:  https://twitter.com/
-  facebook: https://facebook.com/"
-  website:  http://clifford.netlify.app
-  cover:    /images/502.jpg
+  name:     Dinde Noire
+  bio:      Il n'y a pas de religion supérieure à la vérité.
+  location: En quelquepart sur la terre
+  avatar:   /images/auteur-dinde-noire.jpg
+  twitter:  
+  facebook: 
+  website:  https://dindenoire.ca
+  cover:    /images/header-portail.jpg
 
 
 #-------------------------------
@@ -30,7 +30,7 @@ slider: true # NOTE - By default, the slider is set to display featured posts. T
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contant form
+  email: ladindenoire@gmail.com # Add your email for contant form
   description: The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. # Add a description of your form
 
 # NOTE
@@ -52,7 +52,7 @@ social:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
