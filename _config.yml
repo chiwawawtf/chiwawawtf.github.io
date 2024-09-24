@@ -16,7 +16,7 @@ author:
   bio:      Il n'y a pas de religion supérieure à la vérité.
   location: En quelquepart sur la terre
   avatar:   /images/auteurs/dinde-noire.jpg
-  twitter:  
+  twitter:  dindenoire
   facebook: 
   website:  https://dindenoire.ca
   cover:    /images/header-portail-full.jpg
@@ -42,17 +42,17 @@ contact:
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion ion-logo-github", link: "https://github.com"}
+- {icon: "ion-logo-twitter", link: "https://x.com/dindenoire"}
+#- {icon: "ion-logo-facebook", link: "https://facebook.com"}
+#- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+#- {icon: "ion-logo-instagram", link: "https://instagram.com"}
+#- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+#- {icon: "ion ion-logo-github", link: "https://github.com"}
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: dindenoire # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
