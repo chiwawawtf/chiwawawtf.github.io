@@ -3,7 +3,7 @@ layout: post
 title:  La Vérité... Nouvelle Religion qui Détrônerait Toutes les Autres?
 date:   2024-09-23 06:06:06 -0400
 image:  '/images/articles/00001.jpg'
-tags:   [actualites, monde, sante, science, argent, opinions, pleine-conscience, recettes, horoscope, mots-croises]
+tags:   [actualites, monde, science, argent, opinions, pleine-conscience, recettes, horoscope, mots-croises]
 featured: true
 ---
 ## La Vérité : La Nouvelle Religion qui Détrône Toutes les Autres?
