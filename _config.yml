@@ -2,12 +2,12 @@
 # General Site Settings
 title: Dinde Noire
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Tel que prédit, elle est revenue!
+description: Tel que prédit, elle est revenue...
 hero-image: '/images/header-portail.jpg'
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://chiwawawtf.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
-blog-theme: light # You can use a `dark` or `light` theme.
+blog-theme: dark # You can use a `dark` or `light` theme.
 
 #-------------------------------
 # Authors Settings
@@ -15,7 +15,7 @@ author:
   name:     Dinde Noire
   bio:      Il n'y a pas de religion supérieure à la vérité.
   location: En quelquepart sur la terre
-  avatar:   /images/auteur-dinde-noire.jpg
+  avatar:   /images/auteurs/dinde-noire.jpg
   twitter:  
   facebook: 
   website:  https://dindenoire.ca
@@ -62,7 +62,7 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Newsletter
-mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
+mailchimp: false # To enable the mailchimp form, use the value true. To turn off use the value false.
 mailchimp-text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
 mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
