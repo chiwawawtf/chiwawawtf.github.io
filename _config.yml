@@ -2,10 +2,10 @@
 # General Site Settings
 title: La Dinde Noire
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Tel que prédit, elle est revenue...
+description: Tel que prédit, l'actualité indépendante de dernière heure est revenue...
 hero-image: '/images/header-portail-full.jpg'
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "https://chiwawawtf.github.io" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://dindenoire.ca" # The base hostname & protocol for your site, e.g. http://example.com
 
 blog-theme: dark # You can use a `dark` or `light` theme.
 
@@ -30,8 +30,8 @@ slider: true # NOTE - By default, the slider is set to display featured posts. T
 #-------------------------------
 # Contact Settings
 contact:
-  email: ladindenoire@gmail.com # Add your email for contant form
-  description: The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. # Add a description of your form
+  email: # Add your email for contant form
+  description: # The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. # Add a description of your form
 
 # NOTE
 # Clifford theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
@@ -63,7 +63,7 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 #-------------------------------
 # Newsletter
 mailchimp: false # To enable the mailchimp form, use the value true. To turn off use the value false.
-mailchimp-text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
+mailchimp-text: # Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
 mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 
