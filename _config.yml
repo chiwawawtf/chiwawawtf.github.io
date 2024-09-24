@@ -3,7 +3,7 @@
 title: La Dinde Noire
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Tel que prédit, elle est revenue...
-hero-image: '/images/header-portail.jpg'
+hero-image: '/images/header-portail-full.jpg'
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://chiwawawtf.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -19,7 +19,7 @@ author:
   twitter:  
   facebook: 
   website:  https://dindenoire.ca
-  cover:    /images/header-portail.jpg
+  cover:    /images/header-portail-full.jpg
 
 
 #-------------------------------
