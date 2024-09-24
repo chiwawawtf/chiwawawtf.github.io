@@ -25,4 +25,4 @@ Et si la Vérité devenait la nouvelle norme, serions-nous prêts à affronter s
 ## Conclusion : La Vérité, Vraiment Supérieure?
 Alors, la Vérité est-elle vraiment supérieure à toutes les religions? Peut-être. Mais avant de la couronner reine, réfléchissons aux conséquences. La Vérité, aussi noble soit-elle, pourrait bien nous mener à notre perte. Après tout, comme le disait si bien Oscar Wilde, “La Vérité pure et simple est rarement pure et jamais simple.”
 
-Préparez-vous, chers lecteurs, car la Vérité arrive. Et elle n’a pas l’intention de faire de prisonniers.
+Préparez-vous, chers lecteurs, car la Vérité arrive... et ça va bien aller!
