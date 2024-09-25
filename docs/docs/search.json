@@ -19,6 +19,15 @@
     } ,
   
     {
+      "title"    : "Le ministre Fistgibbon et son poignet magique",
+      "category" : "",
+      "tags"     : "argent and actualites",
+      "url"      : "/ministre-fistgibbon-et-son-poignet-magique-2024",
+      "date"     : "Sep 25, 2024",
+      "image": "/images/articles/2024/00007.jpg"
+    } ,
+  
+    {
       "title"    : "Les trous noirs sentent les toilettes, selon une étude",
       "category" : "",
       "tags"     : "sciences",
@@ -30,7 +39,7 @@
     {
       "title"    : "Une tempête géomagnétique menace le Québec",
       "category" : "",
-      "tags"     : "meteo and actualite",
+      "tags"     : "meteo and actualites",
       "url"      : "/tempete-solaire-geomagnetique-menace-le-quebec-2024",
       "date"     : "Sep 24, 2024",
       "image": "/images/articles/2024/00003.jpg"
@@ -48,7 +57,7 @@
     {
       "title"    : "La vérité comme nouvelle religion",
       "category" : "",
-      "tags"     : "actualites, monde, argent, opinions, pleine-conscience, recettes, horoscope, and mots-croises",
+      "tags"     : "actualites, monde, opinions, pleine-conscience, recettes, horoscope, and mots-croises",
       "url"      : "/verite-nouvelle-religion-2024",
       "date"     : "Sep 23, 2024",
       "image": "/images/articles/2024/00001.jpg"
