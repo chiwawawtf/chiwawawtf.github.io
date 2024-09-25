@@ -4,7 +4,7 @@ title:  Les trous noirs sentent les toilettes, selon une étude
 date:   2024-09-25 06:06:06 -0400
 image:  '/images/articles/2024/00005.jpg'
 tags:   [sciences]
-featured: true
+featured: false
 ---
 
 ## Une découverte scientifique révolutionnaire

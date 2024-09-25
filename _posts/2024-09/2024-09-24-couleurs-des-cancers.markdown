@@ -4,7 +4,7 @@ title:  Les couleurs des cancers
 date:   2024-09-24 06:06:06 -0400
 image:  '/images/articles/2024/00002.jpg'
 tags:   [sante]
-featured: true
+featured: false
 ---
 
 ## La vérité cachée des colorants alimentaires

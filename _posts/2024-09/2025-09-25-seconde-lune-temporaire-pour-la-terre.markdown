@@ -4,7 +4,7 @@ title:  Une seconde lune temporaire pour la Terre
 date:   2024-09-25 06:06:06 -0400
 image:  '/images/articles/2024/00006.jpg'
 tags:   [sciences]
-featured: true
+featured: false
 ---
 
 ## Un congélateur extra-terrestre pour humains?

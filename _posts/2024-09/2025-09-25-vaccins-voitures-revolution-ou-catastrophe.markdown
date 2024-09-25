@@ -4,7 +4,7 @@ title:  Les vaccins pour voitures
 date:   2024-09-25 06:06:06 -0400
 image:  '/images/articles/2024/00004.jpg'
 tags:   [sante]
-featured: true
+featured: false
 ---
 
 ## Une révolution mécanique ou une catastrophe imminente?
