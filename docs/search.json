@@ -46,6 +46,15 @@
     } ,
   
     {
+      "title"    : "La grande guerre, la Suisse et la France se battent!",
+      "category" : "",
+      "tags"     : "monde",
+      "url"      : "/grande-guerre-suisse-france-se-battent-2024",
+      "date"     : "Sep 25, 2024",
+      "image": "/images/articles/2024/00014.jpg"
+    } ,
+  
+    {
       "title"    : "Les trous noirs sentent les toilettes, selon une étude",
       "category" : "",
       "tags"     : "sciences",
@@ -93,7 +102,7 @@
     {
       "title"    : "La vérité comme nouvelle religion",
       "category" : "",
-      "tags"     : "opinions and monde",
+      "tags"     : "opinions",
       "url"      : "/verite-nouvelle-religion-2023",
       "date"     : "Sep 23, 2023",
       "image": "/images/articles/2024/00001.jpg"
