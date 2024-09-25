@@ -1,6 +1,6 @@
 <div class="widget-sidebar widget-tags">
   <div class="widget__head section-top">
-    <h4 class="widget__title">Sujets Chauds</h4>
+    <h4 class="widget__title">Sujets Brûlants</h4>
   </div>
   <div class="widget-tags__inner">
     {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
