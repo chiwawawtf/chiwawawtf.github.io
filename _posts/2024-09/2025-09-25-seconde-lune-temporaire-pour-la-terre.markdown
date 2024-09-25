@@ -9,7 +9,7 @@ featured: true
 
 # Une seconde lune temporaire pour la Terre
 
-## Un congélateur extra-terrestre pour humains ?
+## Un congélateur extra-terrestre pour humains?
 
 Dans une tournure des événements aussi surprenante qu'inquiétante, les scientifiques ont récemment découvert que la mystérieuse seconde lune de la Terre, apparue soudainement dans notre ciel, n'est pas ce qu'elle semble être. En effet, cette "mini-lune", connue sous le nom de 2024 PT5, s'est révélée être un gigantesque congélateur extra-terrestre destiné à stocker des humains!
 

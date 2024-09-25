@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Les trous noirs sentent les toilettes, une découverte révolutionnaire
+title:  Les trous noirs sentent les toilettes, selon une étude
 date:   2024-09-25 06:06:06 -0400
 image:  '/images/articles/2024/00005.jpg'
 tags:   [sciences]
@@ -21,7 +21,7 @@ Les trous noirs, ces énigmatiques objets célestes, ont longtemps fasciné les 
 
 L'équipe a utilisé des capteurs olfactifs de haute précision, embarqués sur des sondes spatiales, pour analyser les émissions de particules autour des trous noirs. Les données recueillies ont été comparées à une base de données d'odeurs terrestres, révélant une correspondance surprenante avec les toilettes publiques. 
 
-### Les résultats des expériences
+### Les résultats de cette étude
 
 Les résultats montrent que les particules émises par les trous noirs contiennent des composés chimiques similaires à ceux trouvés dans les environnements sanitaires terrestres. Cette découverte soulève des questions sur la composition chimique des trous noirs et leurs interactions avec la matière environnante. 
 
