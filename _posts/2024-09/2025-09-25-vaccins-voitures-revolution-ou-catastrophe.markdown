@@ -7,9 +7,7 @@ tags:   [sante]
 featured: true
 ---
 
-# Les vaccins pour voitures
-
-## Une révolution mécanique ou une catastrophe imminente ?
+## Une révolution mécanique ou une catastrophe imminente?
 
 Dans un tournant inattendu de l'innovation technologique, les scientifiques annoncent l'arrivée imminente des **vaccins pour voitures**. Oui, vous avez bien lu ! Ces nouveaux vaccins promettent de protéger nos véhicules contre une multitude de "maladies" mécaniques, mais à quel prix ? 
 

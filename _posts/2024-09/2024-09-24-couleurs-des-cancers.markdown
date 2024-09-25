@@ -7,8 +7,6 @@ tags:   [sante]
 featured: true
 ---
 
-# Les couleurs des cancers
-
 ## La vérité cachée des colorants alimentaires
 
 Dans une révélation choquante, des scientifiques ont découvert que les colorants alimentaires pourraient être responsables de cancers aux couleurs tout aussi vives que les bonbons qu'ils colorent. Voici un aperçu de

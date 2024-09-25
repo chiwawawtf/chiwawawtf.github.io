@@ -7,9 +7,7 @@ tags:   [sciences]
 featured: true
 ---
 
-# Une découverte scientifique révolutionnaire
-
-## Les trous noirs sentiraient les toilettes!
+## Une découverte scientifique révolutionnaire
 
 Une équipe de chercheurs de l'Institut Intergalactique de l'Olfaction Cosmique a récemment publié une étude révolutionnaire affirmant que les trous noirs dégagent une odeur similaire à celle des toilettes publiques. Cette découverte, bien que controversée, pourrait ouvrir de nouvelles perspectives dans l'étude des phénomènes astrophysiques. 
 

@@ -7,8 +7,6 @@ tags:   [meteo, actualite]
 featured: false
 ---
 
-# Une tempête géomagnétique menace le Québec
-
 ## Alerte Rouge: une tempête solaire s'abat sur le Québec
 
 Chers lecteurs, préparez-vous à l’apocalypse ! Une tempête géomagnétique d’une ampleur jamais vue s’apprête à frapper notre planète cette nuit. Les scientifiques sont en état de choc, incapables de prédire les conséquences dévastatrices de cet événement cosmique.

@@ -7,8 +7,6 @@ tags:   [actualites, monde, argent, opinions, pleine-conscience, recettes, horos
 featured: false
 ---
 
-# La vérité en tant que nouvelle religion
-
 ## Une religion qui détrônerait toutes les autres?
 
 Attention, Mesdames et Messieurs! Préparez-vous à un choc de taille : il semblerait que la Vérité soit en passe de devenir la nouvelle religion dominante. Oui, vous avez bien entendu! Oubliez les siècles de traditions, les guerres saintes, et les débats théologiques interminables. La Vérité, avec un grand “V”, est là pour tout balayer sur son passage.
