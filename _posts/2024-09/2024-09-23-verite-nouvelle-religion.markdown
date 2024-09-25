@@ -3,7 +3,7 @@ layout: post
 title:  La vérité comme nouvelle religion
 date:   2024-09-23 06:06:06 -0400
 image:  '/images/articles/2024/00001.jpg'
-tags:   [monde, opinions, recettes, horoscope, mots-croises]
+tags:   [monde, recettes, horoscope]
 featured: false
 ---
 

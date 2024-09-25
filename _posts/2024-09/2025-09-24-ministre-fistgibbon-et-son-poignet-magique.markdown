@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Le ministre Fistgibbon et son poignet magique
-date:   2024-09-25 06:06:06 -0400
+date:   2024-09-24 06:06:06 -0400
 image:  '/images/articles/2024/00007.jpg'
 tags:   [argent, actualites]
 featured: true
