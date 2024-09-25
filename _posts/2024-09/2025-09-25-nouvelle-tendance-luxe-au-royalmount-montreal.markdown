@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  La nouvelle tendande de luxe au Royalmount
+title:  La nouvelle tendance de luxe au Royalmount
 date:   2024-09-25 06:06:06 -0400
 image:  '/images/articles/2024/00009.jpg'
 tags:   [actualites]
