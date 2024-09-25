@@ -28,12 +28,30 @@
     } ,
   
     {
-      "title"    : "Le ministre Fistgibbon et son poignet magique",
+      "title"    : "Mots Croisés du 25 Septembre",
       "category" : "",
-      "tags"     : "argent and actualites",
-      "url"      : "/ministre-fistgibbon-et-son-poignet-magique-2024",
+      "tags"     : "mots-croises",
+      "url"      : "/mots-croises-du-25-septembre-2024",
       "date"     : "Sep 25, 2024",
-      "image": "/images/articles/2024/00007.jpg"
+      "image": "/images/mots-croises/2024/header.jpg"
+    } ,
+  
+    {
+      "title"    : "La ministre Fléchette et l&#39;art de l&#39;embrouillage linguistique",
+      "category" : "",
+      "tags"     : "opinions and actualites",
+      "url"      : "/ministre-flechette-art-embrouillage-linguistique-2024",
+      "date"     : "Sep 25, 2024",
+      "image": "/images/articles/2024/00010.jpg"
+    } ,
+  
+    {
+      "title"    : "Les trous noirs sentent les toilettes, selon une étude",
+      "category" : "",
+      "tags"     : "sciences",
+      "url"      : "/decouverte-trous-noir-sentent-les-toilettes-selon-etude-2024",
+      "date"     : "Sep 25, 2024",
+      "image": "/images/articles/2024/00005.jpg"
     } ,
   
     {
@@ -46,12 +64,12 @@
     } ,
   
     {
-      "title"    : "Les trous noirs sentent les toilettes, selon une étude",
+      "title"    : "Le ministre Fistgibbon et son poignet magique",
       "category" : "",
-      "tags"     : "sciences",
-      "url"      : "/decouverte-trous-noir-sentent-les-toilettes-selon-etude-2024",
-      "date"     : "Sep 25, 2024",
-      "image": "/images/articles/2024/00005.jpg"
+      "tags"     : "argent and actualites",
+      "url"      : "/ministre-fistgibbon-et-son-poignet-magique-2024",
+      "date"     : "Sep 24, 2024",
+      "image": "/images/articles/2024/00007.jpg"
     } ,
   
     {
@@ -75,7 +93,7 @@
     {
       "title"    : "La vérité comme nouvelle religion",
       "category" : "",
-      "tags"     : "monde, opinions, recettes, horoscope, and mots-croises",
+      "tags"     : "monde, recettes, and horoscope",
       "url"      : "/verite-nouvelle-religion-2024",
       "date"     : "Sep 23, 2024",
       "image": "/images/articles/2024/00001.jpg"
