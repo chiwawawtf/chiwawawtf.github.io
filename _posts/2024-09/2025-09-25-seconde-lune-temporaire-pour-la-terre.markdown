@@ -19,4 +19,6 @@ Les astronomes, en scrutant de plus près cet astéroïde inhabituel, ont détec
 
 Les autorités mondiales sont en état d'alerte maximale. Des équipes de scientifiques et de militaires se préparent à une mission d'exploration pour comprendre les intentions de ces mystérieux visiteurs. Les théories du complot abondent, certains affirmant que cette découverte pourrait être le prélude à une invasion extra-terrestre, tandis que d'autres y voient une opportunité de contact pacifique avec une civilisation avancée. 
 
-Quoi qu'il en soit, une chose est certaine : la seconde lune de la Terre a bouleversé notre compréhension de l'univers et de notre place dans celui-ci. Restez à l'écoute pour plus de développements sur cette histoire incroyable et alarmante ! 
+### Un bouleversement de notre lucidité
+
+Quoi qu'il en soit, une chose est certaine : la seconde lune de la Terre a bouleversé notre compréhension de l'univers et de notre place dans celui-ci. Restez à l'écoute pour plus de développements sur cette histoire incroyable!

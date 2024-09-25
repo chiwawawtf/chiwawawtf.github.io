@@ -28,4 +28,6 @@ Les autorités sanitaires sont en alerte maximale, craignant une épidémie de c
 
 Les conséquences sociales de cette découverte sont tout aussi alarmantes. Les amateurs de bonbons et de sodas colorés pourraient être ostracisés, et les rayons de supermarchés pourraient se vider de leurs produits les plus colorés. Les fêtes d'anniversaire sans gâteaux multicolores deviendraient la norme, et les arcs-en-ciel pourraient être perçus comme des signes de mauvais augure.
 
+### Un cas de pensez-y bien
+
 Alors, les colorants alimentaires : simples additifs inoffensifs ou agents de cancers colorés ? Bien que cette histoire soit horrifiante, elle nous rappelle l'importance de vérifier les ingrédients des produits et de ne pas céder à la panique. Restez vigilants et continuez à savourer vos bonbons de famille à la place !

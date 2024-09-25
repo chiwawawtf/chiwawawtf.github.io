@@ -19,6 +19,9 @@ Les trous noirs, ces énigmatiques objets célestes, ont longtemps fasciné les 
 
 L'équipe a utilisé des capteurs olfactifs de haute précision, embarqués sur des sondes spatiales, pour analyser les émissions de particules autour des trous noirs. Les données recueillies ont été comparées à une base de données d'odeurs terrestres, révélant une correspondance surprenante avec les toilettes publiques. 
 
+![Un trou noir]({{site.baseurl}}/images/articles/2024/00005b.jpg)
+*Un trou noir, tel que vu par ces nouveaux capteurs olfactifs*
+
 ### Les résultats de cette étude
 
 Les résultats montrent que les particules émises par les trous noirs contiennent des composés chimiques similaires à ceux trouvés dans les environnements sanitaires terrestres. Cette découverte soulève des questions sur la composition chimique des trous noirs et leurs interactions avec la matière environnante. 
@@ -26,5 +29,7 @@ Les résultats montrent que les particules émises par les trous noirs contienne
 ### Implications de cette découverte
 
 Bien que cette étude soit encore à ses débuts, elle ouvre la voie à de nouvelles recherches sur les propriétés olfactives des objets célestes. Les implications de cette découverte pourraient être vastes, allant de la compréhension des processus de formation des trous noirs à l'exploration de nouvelles méthodes de détection. 
+
+### Une découverte frappant l'imaginaire
 
 La découverte que les trous noirs pourraient avoir une odeur similaire à celle des toilettes publiques est à la fois fascinante et humoristique. Elle rappelle que l'univers est plein de surprises et que la science est un domaine où l'imagination et la rigueur se rencontrent. 
