@@ -2,10 +2,13 @@
 layout: post
 title:  Les couleurs des cancers
 date:   2024-09-24 06:06:06 -0400
-image:  '/images/articles/00002.jpg'
+image:  '/images/articles/2024/00002.jpg'
 tags:   [sante]
 featured: true
 ---
+
+# Les couleurs des cancers
+
 ## La vérité cachée des colorants alimentaires 
 Dans une révélation choquante, des scientifiques ont découvert que les colorants alimentaires pourraient être responsables de cancers aux couleurs tout aussi vives que les bonbons qu'ils colorent. Voici un aperçu de
 cette horrible découverte.
