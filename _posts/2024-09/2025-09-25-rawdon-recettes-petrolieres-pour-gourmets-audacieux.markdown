@@ -28,11 +28,11 @@ En même temps, presque au même moment, des scientifiques, après avoir acciden
 
 #### Instructions
 
-Coupez les polymères en fines lamelles pour un effet croquant. 
-Mélangez avec la laitue, les tomates et le concombre. 
-Assaisonnez avec votre vinaigrette préférée. 
-Rajoutez de la couleur. 
-Servez frais. 
+* Coupez les polymères en fines lamelles pour un effet croquant. 
+* Mélangez avec la laitue, les tomates et le concombre. 
+* Assaisonnez avec votre vinaigrette préférée. 
+* Rajoutez de la couleur. 
+* Servez frais. 
 
 ### Recette: Petits Cubes d'Amour (Dessert)
 
