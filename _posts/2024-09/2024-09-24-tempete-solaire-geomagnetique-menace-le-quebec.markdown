@@ -3,7 +3,7 @@ layout: post
 title:  Une tempête géomagnétique menace le Québec
 date:   2024-09-24 06:06:06 -0400
 image:  '/images/articles/2024/00003.jpg'
-tags:   [meteo, actualite]
+tags:   [meteo, actualites]
 featured: false
 ---
 
