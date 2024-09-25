@@ -93,10 +93,19 @@
     {
       "title"    : "La vérité comme nouvelle religion",
       "category" : "",
-      "tags"     : "monde, recettes, and horoscope",
-      "url"      : "/verite-nouvelle-religion-2024",
-      "date"     : "Sep 23, 2024",
+      "tags"     : "monde and recettes",
+      "url"      : "/verite-nouvelle-religion-2023",
+      "date"     : "Sep 23, 2023",
       "image": "/images/articles/2024/00001.jpg"
+    } ,
+  
+    {
+      "title"    : "Horoscopes Septembre 2024",
+      "category" : "",
+      "tags"     : "horoscope",
+      "url"      : "/horoscopes-septembre-2023",
+      "date"     : "Sep 23, 2023",
+      "image": "/images/horoscopes/2024/header.jpg"
     } 
   
 ]
