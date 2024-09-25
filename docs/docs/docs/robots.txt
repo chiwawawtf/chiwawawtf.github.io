@@ -1,1 +1,2 @@
-Sitemap: https://dindenoire.ca/sitemap.xml
+User-agent: *
+Allow: /
