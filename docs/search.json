@@ -1,6 +1,42 @@
 [
   
     {
+      "title"    : "Manifestations contre les traficomanciens et les extra-terrestres",
+      "category" : "",
+      "tags"     : "opinions and actualites",
+      "url"      : "/manifestions-pont-jacques-cartier-2024",
+      "date"     : "Oct 22, 2024",
+      "image": "/images/articles/2024/00018.jpg"
+    } ,
+  
+    {
+      "title"    : "La comédie des patients en attente de chirurgie au Québéc",
+      "category" : "",
+      "tags"     : "sante and actualites",
+      "url"      : "/comedie-patients-attente-chirurgie-quebec-2024",
+      "date"     : "Oct 12, 2024",
+      "image": "/images/articles/2024/00017.jpg"
+    } ,
+  
+    {
+      "title"    : "Terre-Neuve envahie par des blobs",
+      "category" : "",
+      "tags"     : "actualites",
+      "url"      : "/terre-neuve-envahie-par-des-blobs-2024",
+      "date"     : "Oct 12, 2024",
+      "image": "/images/articles/2024/00016.jpg"
+    } ,
+  
+    {
+      "title"    : "Nouveau jeu tendance chez les jeunes de Trois-Rivière",
+      "category" : "",
+      "tags"     : "actualites",
+      "url"      : "/trois-rivieres-nouveau-jeu-tendance-jeunesse-punaises-tableau-2024",
+      "date"     : "Oct 10, 2024",
+      "image": "/images/articles/2024/00015.jpg"
+    } ,
+  
+    {
       "title"    : "Fistgibbons, le cas zero de la variole du singe",
       "category" : "",
       "tags"     : "sante and actualites",
@@ -121,8 +157,8 @@
       "title"    : "La vérité comme nouvelle religion",
       "category" : "",
       "tags"     : "opinions",
-      "url"      : "/verite-nouvelle-religion-2023",
-      "date"     : "Sep 23, 2023",
+      "url"      : "/verite-nouvelle-religion-2024",
+      "date"     : "Sep 23, 2024",
       "image": "/images/articles/2024/00001.jpg"
     } ,
   
@@ -130,8 +166,8 @@
       "title"    : "Horoscopes Septembre 2024",
       "category" : "",
       "tags"     : "horoscope",
-      "url"      : "/horoscopes-septembre-2023",
-      "date"     : "Sep 23, 2023",
+      "url"      : "/horoscopes-septembre-2024",
+      "date"     : "Sep 23, 2024",
       "image": "/images/horoscopes/2024/header.jpg"
     } 
   
