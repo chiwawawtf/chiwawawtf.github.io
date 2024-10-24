@@ -9,7 +9,7 @@ featured: true
 
 ## Le pont Jacques-Cartier: manifestations contre les traficomanciens et l'invasion extraterrestre
 
-L’autre jour, en traversant le pont Jacques-Cartier, on aurait presque pu croire à un tournage de film de science-fiction apocalyptique. Une foule de manifestants s'était rassemblée, brandissant des pancartes et des slogans, créant ainsi une scène digne d'un épisode de Traficomanciens et les Théories du Complot Extraterrestre.
+L’autre jour, en traversant le pont Jacques-Cartier, on aurait presque pu croire à un tournage de film de science-fiction apocalyptique. Une foule de manifestants s'était rassemblée, brandissant des pancartes et des slogans.
 
 Armés de mégaphones et de ceintures de bananes (pour des raisons que personne ne comprend vraiment), les manifestants ont décidé de bloquer le pont. Selon eux, les "Traficomanciens", une secte imaginaire contrôlant le flux des véhicules, collaboreraient désormais avec des extraterrestres pour augmenter le stress des habitants.
 
