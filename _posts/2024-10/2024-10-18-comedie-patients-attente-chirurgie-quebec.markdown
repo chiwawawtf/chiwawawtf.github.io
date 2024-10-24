@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  La comédie des patients en attente de chirurgie au Québéc
-date:   2024-10-12 06:06:06 -0400
+date:   2024-10-18 06:06:06 -0400
 image:  '/images/articles/2024/00017.jpg'
 tags:   [sante,actualites]
 featured: true
